@@ -1,0 +1,13 @@
+{
+  "name": "orchestree",
+  "version": "0.0.0",
+  "description": "Run many git worktrees of one project side by side. Coming soon.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericvera/orchestree.git"
+  },
+  "homepage": "https://github.com/ericvera/orchestree#readme",
+  "files": [
+    "README.md"
+  ]
+}
